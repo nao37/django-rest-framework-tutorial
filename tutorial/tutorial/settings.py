@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'rest_framework',
-    'quickstart.apps.QuickstartConfig',
+    # 'quickstart.apps.QuickstartConfig',
     'snippets.apps.SnippetsConfig',
 
 ]
